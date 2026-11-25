@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:b87333&height=220&section=header&text=AUSTIN%20LE&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Mathematics%20%7C%20Robotics%20%7C%20Engineering&descAlignY=75&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:345B8C,100:729BC5&height=220&section=header&text=Anh%20Le%20Dang%20Quynh%20(Austin)&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Mathematics%20%7C%20Robotics%20%7C%20Engineering&descAlignY=65&descSize=18" width="100%"/>
 
 # Hi, I'm Austin.
 
@@ -9,8 +9,9 @@
 
 Robotics & Mechatronics Engineering @ RMIT University Vietnam
 
-[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:austein.profile@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/austeinle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=91B5D9)](https://www.linkedin.com/in/anh-le-dang-quynh-955063341)
+[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=91B5D9)](mailto:austein.profile@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=91B5D9)](https://github.com/austeinle)
 
 </div>
 
@@ -28,10 +29,10 @@ My long-term goal is to pursue research at the intersection of mathematics, robo
 
 ## 02 — Research Interests
 
-![Mathematical Analysis](https://img.shields.io/badge/Mathematical_Analysis-B87333?style=for-the-badge)
-![Applied Mathematics](https://img.shields.io/badge/Applied_Mathematics-B87333?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-B87333?style=for-the-badge)
-![Computational Engineering](https://img.shields.io/badge/Computational_Engineering-B87333?style=for-the-badge)
+![Mathematical Analysis](https://img.shields.io/badge/Mathematical_Analysis-527EAD?style=for-the-badge)
+![Applied Mathematics](https://img.shields.io/badge/Applied_Mathematics-527EAD?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-527EAD?style=for-the-badge)
+![Computational Engineering](https://img.shields.io/badge/Computational_Engineering-527EAD?style=for-the-badge)
 
 ## 03 — Technical Environment
 
@@ -55,11 +56,11 @@ A student-oriented digital platform designed to improve access to academic infor
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=austeinle&show_icons=true&theme=github_dark&hide_border=true&title_color=b87333&icon_color=b87333" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=austeinle&show_icons=true&theme=github_dark&hide_border=true&title_color=91B5D9&icon_color=729BC5" height="165"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=austeinle&layout=compact&theme=github_dark&hide_border=true&title_color=b87333" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=austeinle&layout=compact&theme=github_dark&hide_border=true&title_color=91B5D9" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=austeinle&theme=github-dark-blue&hide_border=true&ring=b87333&fire=b87333&currStreakLabel=b87333"/>
+<img src="https://streak-stats.demolab.com/?user=austeinle&theme=github-dark-blue&hide_border=true&ring=729BC5&fire=729BC5&currStreakLabel=91B5D9" />
 
 </div>
 
@@ -69,6 +70,6 @@ A student-oriented digital platform designed to improve access to academic infor
 
 *Understanding the theory. Engineering the reality.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:b87333&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:345B8C,100:729BC5&height=100&section=footer" width="100%"/>
 
 </div>
