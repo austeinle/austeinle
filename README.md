@@ -7,7 +7,7 @@
 
 ### Engineering Undergraduate · Aspiring Researcher
 
-Robotics & Mechatronics Engineering @ RMIT University Vietnam
+Robotics & Mechatronics Engineering (Honours) @ RMIT University Vietnam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=91B5D9)](https://www.linkedin.com/in/anh-le-dang-quynh-955063341)
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=91B5D9)](mailto:austein.profile@gmail.com)
@@ -19,7 +19,7 @@ Robotics & Mechatronics Engineering @ RMIT University Vietnam
 
 ## 01 — About Me
 
-I am a Robotics and Mechatronics Engineering undergraduate at RMIT University Vietnam, interested in the mathematical foundations of engineering and their applications to robotic systems.
+I am a Robotics and Mechatronics Engineering (Honours) undergraduate at RMIT University Vietnam, interested in the mathematical foundations of engineering and their applications to robotic systems.
 
 My long-term goal is to pursue research at the intersection of mathematics, robotics, and computational engineering.
 
