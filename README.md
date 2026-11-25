@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7D3FF,50:F0F8FF,100:90CAF9&height=220&section=header&text=Anh%20Le%20Dang%20Quynh%20(Austin)&fontSize=35&fontColor=23476A&fontAlignY=40&desc=Mathematics%20%C2%B7%20Robotics%20%C2%B7%20Engineering&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:b87333&height=220&section=header&text=AUSTIN%20LE&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Mathematics%20%7C%20Robotics%20%7C%20Engineering&descAlignY=75&descSize=18" width="100%"/>
 
 # Hi, I'm Austin.
 
@@ -9,9 +9,8 @@
 
 Robotics & Mechatronics Engineering @ RMIT University Vietnam
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6EAFF?style=for-the-badge&logo=linkedin&logoColor=23476A)](https://www.linkedin.com/in/anh-le-dang-quynh-955063341)
-[![Email](https://img.shields.io/badge/Email-D6EAFF?style=for-the-badge&logo=gmail&logoColor=23476A)](mailto:austein.profile@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-D6EAFF?style=for-the-badge&logo=github&logoColor=23476A)](https://github.com/austeinle)
+[![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:austein.profile@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/austeinle)
 
 </div>
 
@@ -29,10 +28,10 @@ My long-term goal is to pursue research at the intersection of mathematics, robo
 
 ## 02 — Research Interests
 
-![Mathematical Analysis](https://img.shields.io/badge/Mathematical_Analysis-F0F8FF?style=for-the-badge)
-![Applied Mathematics](https://img.shields.io/badge/Applied_Mathematics-D6EAFF?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-A7D3FF?style=for-the-badge)
-![Computational Engineering](https://img.shields.io/badge/Computational_Engineering-90CAF9?style=for-the-badge)
+![Mathematical Analysis](https://img.shields.io/badge/Mathematical_Analysis-B87333?style=for-the-badge)
+![Applied Mathematics](https://img.shields.io/badge/Applied_Mathematics-B87333?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-B87333?style=for-the-badge)
+![Computational Engineering](https://img.shields.io/badge/Computational_Engineering-B87333?style=for-the-badge)
 
 ## 03 — Technical Environment
 
@@ -50,19 +49,17 @@ My long-term goal is to pursue research at the intersection of mathematics, robo
 
 A student-oriented digital platform designed to improve access to academic information, research opportunities, and university resources.
 
-[![Visit Platform](https://img.shields.io/badge/Visit_Platform-A7D3FF?style=for-the-badge&logo=cloudflare&logoColor=23476A)](https://r-students-searchsite.rstuhub.workers.dev/)
+[Visit Platform](https://r-students-searchsite.rstuhub.workers.dev/)
 
 ## 05 — GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=austeinle&show_icons=true&hide_border=true&bg_color=F0F8FF&title_color=23476A&text_color=42658A&icon_color=6BA8DE&rank_icon=github" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=austeinle&show_icons=true&theme=github_dark&hide_border=true&title_color=b87333&icon_color=b87333" height="165"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=austeinle&layout=compact&hide_border=true&bg_color=F0F8FF&title_color=23476A&text_color=42658A" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=austeinle&layout=compact&theme=github_dark&hide_border=true&title_color=b87333" height="165"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=austeinle&background=F0F8FF&hide_border=true&stroke=A7D3FF&ring=6BA8DE&fire=6BA8DE&currStreakNum=23476A&sideNums=23476A&currStreakLabel=42658A&sideLabels=42658A&dates=42658A"/>
+<img src="https://streak-stats.demolab.com/?user=austeinle&theme=github-dark-blue&hide_border=true&ring=b87333&fire=b87333&currStreakLabel=b87333"/>
 
 </div>
 
@@ -72,6 +69,6 @@ A student-oriented digital platform designed to improve access to academic infor
 
 *Understanding the theory. Engineering the reality.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A7D3FF,50:F0F8FF,100:90CAF9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:b87333&height=100&section=footer" width="100%"/>
 
 </div>
